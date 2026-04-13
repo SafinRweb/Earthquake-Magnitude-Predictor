@@ -1,0 +1,7 @@
+# Python environment files
+__pycache__/
+*.py[cod]
+
+# If you create a virtual environment later, ignore it
+venv/
+env/
